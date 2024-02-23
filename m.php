@@ -299,7 +299,7 @@ if (isset($_SESSION['ACCOUNT_ID'])) {
 
                   <div class="col-12">
                   <button type="submit" class="btn btn-success" name="submit" value="submit">M~Pay</button>
-                  <button type="submit"><a href="https://paypal.com" target="_blank" class="btn btn-info" name="submit" value="submit">PAYPAl</button></a>
+                  <button type="submit"><a href="https://paypal.com" target="_blank" class="btn btn-info" name="submit" value="submit">PAYPAL</button></a>
                   </div>
                   <div class="container d-flex justify-content-center">
                   <div class="card mt-5 px-3 py-4">
